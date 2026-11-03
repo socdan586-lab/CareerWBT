@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">CareerWBT mark</title><desc id="desc">A guided path rising toward a new horizon.</desc>
+  <rect width="128" height="128" rx="30" fill="#f3efe7"/><circle cx="64" cy="64" r="48" fill="#a95032"/>
+  <path d="M34 88h60M38 82l18-19 13 10 27-31" fill="none" stroke="#fff8ec" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+  <path d="M80 42h16v16" fill="none" stroke="#c4e47b" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+  <circle cx="56" cy="63" r="5" fill="#c4e47b"/><circle cx="69" cy="73" r="5" fill="#c4e47b"/>
+</svg>
